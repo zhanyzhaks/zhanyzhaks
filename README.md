@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhanyzhaks, a Mathematician and a Data Analyst
-- 👀 I’m interested in Data Analytics
+- 👀 I’m an Instructor in Data Analytics
 - 🌱 I’m currently open to job
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me at zhanyzhaks@gmail.com
